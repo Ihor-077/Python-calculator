@@ -15,9 +15,8 @@ Just copy the code into any Python environment (like PyCharm or Replit) and run 
 - `input()`
 - `float()`
 - `if-elif-else` statements
-
-
-
+  
+------------------------------------------------------------
 
 operator = input("Choose operation")
 num1 = float(input("Enter your number"))
